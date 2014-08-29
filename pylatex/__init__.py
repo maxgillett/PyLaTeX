@@ -13,5 +13,5 @@ from .document import Document
 from .math import Math
 from .package import Package
 from .section import Section, Subsection, Subsubsection
-from .table import Table
+from .table import Table, Tabu, LongTable, LongTabu
 from .pgfplots import TikZ, Axis, Plot
